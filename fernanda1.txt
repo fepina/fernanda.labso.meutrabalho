@@ -1,0 +1,10 @@
+acess.log
+fernanda1.txt
+fernanda2.txt
+fernanda3.txt
+pasta1/
+pasta2/
+pasta3/
+README.md
+trabalho1.2019
+ultimocomando.txt
