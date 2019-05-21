@@ -7,7 +7,7 @@ Professor: Alex Salgado
 Com relação aos comandos do SO Linux, responda as perguntas abaixo:
 
 0 - Após o comando clone, vá para a pasta seunome.labso.meutrabalho (esta será a pasta principal da prova)
-
+cd fernanda.labso.meutrabalho
 
 1. Crie 3 pastas com nomes de pasta1, pasta2 e pasta3m(Cole aqui o(s) comandos utilizados)
 mkdir -p {pasta1,pasta2,pasta3}
